@@ -1,46 +1,46 @@
 # Hi, I'm Harsh Kumar Pathak 👋
 
-### CSE (AI & ML) Student | Aspiring AI/ML Engineer
+### CSE (AI & ML) Student @ BIT Mesra · Aspiring AI/ML Engineer
 
-I'm a 3rd-year Computer Science student at **BIT Mesra**, focused on building practical software with **AI/ML, Generative AI, data, and cloud technologies**.
+I'm a 3rd-year Computer Science & Engineering student at **BIT Mesra**, interested in **Machine Learning, Generative AI, LLM applications, and software engineering**.
 
-I enjoy turning ideas into working projects, learning by building, and improving my engineering fundamentals through real-world development.
+I learn by building practical projects and enjoy turning ideas into usable products.
 
-## 🚀 What I'm focused on
+## 🚀 What I'm building toward
 
-- 🤖 Machine Learning & Generative AI
-- 🧠 LLM-powered applications and practical AI systems
+- 🤖 Machine Learning & Generative AI applications
+- 🧠 LLM-powered tools and intelligent workflows
 - 📊 Data-driven applications and experimentation
-- ☁️ Cloud-native development and deployment
-- 💻 Writing clean, maintainable software
-- 🔎 Looking for opportunities where I can learn, contribute, and ship meaningful work
+- 💻 Clean, maintainable software and web experiences
+- ☁️ Cloud-ready applications and deployment
 
-## 🛠️ Tech I work with
+## 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, HTML, CSS  
-**AI/ML:** Machine Learning, Generative AI, NLP, data analysis  
-**Web:** Frontend development, responsive UI, JavaScript  
-**Tools:** Git, GitHub, VS Code
+**Languages:** Python · JavaScript · HTML · CSS  
+**AI/ML:** Machine Learning · Generative AI · NLP · Data Analysis  
+**Web:** Frontend Development · Responsive UI · JavaScript  
+**Tools:** Git · GitHub · VS Code
 
-## 📌 Featured work
+## ⭐ Featured Work
 
 ### 🌐 Personal Portfolio
-A responsive portfolio showcasing my projects, skills, education, certifications, and experience.
 
-→ [View the portfolio repository](https://github.com/HarshKumarPathak/Harsh-Kumar-Pathak-Portfolio)
+My personal portfolio showcasing projects, skills, education, certifications, and experience.
+
+**[View Repository →](https://github.com/HarshKumarPathak/Harsh-Kumar-Pathak-Portfolio)**
 
 ## 🎓 Education
 
 **Birla Institute of Technology, Mesra (BIT Mesra)**  
-B.Tech in Computer Science & Engineering (AI & ML) — 3rd Year
+B.Tech — Computer Science & Engineering (AI & ML) · 3rd Year
 
-## 📫 Connect with me
+## 📫 Let's connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/harsh-kumar-pathak-67504a2a7)
+- 🌐 [Portfolio](https://harshkumarpathak.github.io/Harsh-Kumar-Pathak-Portfolio/)
 - 🐙 [GitHub](https://github.com/HarshKumarPathak)
-- 🌐 [Portfolio Repository](https://github.com/HarshKumarPathak/Harsh-Kumar-Pathak-Portfolio)
 - 📧 [Email](mailto:hp852120@gmail.com)
 
 ---
 
-⭐ I'm actively building, learning, and looking for opportunities to work on challenging engineering problems.
+**Open to internship opportunities where I can learn, contribute, and build meaningful products.**
